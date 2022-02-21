@@ -18,10 +18,10 @@ Incase you have any question or you woul want to work with me reach me via maria
 # Live link
 GithubSearch This project was generated with Angular CLI version 12.2.1.
 
-Development server
+# Development server
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
-Code scaffolding
+# Code scaffolding
 Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
 
 Build
