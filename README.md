@@ -42,7 +42,7 @@ MIT Licence.
 # About
 This is a website where the user can search github username and view their profile and also view their repositories.
 
-git@github.com:mariallugare/github-search.git
+mariallugare.github.io/gitsearch/
 
 Topics
 javascript bootstrap typescript html5 css3
