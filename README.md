@@ -39,7 +39,7 @@ To get more help on the Angular CLI use ng help or go check out the Angular CLI 
 Licence
 MIT Licence.
 
-About
+# About
 This is a website where the user can search github username and view their profile and also view their repositories.
 
 git@github.com:mariallugare/github-search.git
