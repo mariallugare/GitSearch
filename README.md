@@ -1,7 +1,7 @@
 # Project Name
 Github-Search
 
-Developed by:
+# Developed by:
 Marial Achieng.
 
 Description.
