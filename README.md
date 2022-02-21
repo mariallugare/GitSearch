@@ -4,7 +4,7 @@ Github-Search
 # Developed by:
 Marial Achieng.
 
-Description.
+# Description.
 This is a website where a user can input his/her github username and get to see his/her profile and all his/her repositories.
 
 This project was generated with Angular CLI version 12.2.1.
