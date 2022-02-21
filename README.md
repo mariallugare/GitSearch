@@ -12,7 +12,7 @@ This project was generated with Angular CLI version 12.2.1.
 # Installation setup
 Fork the repository clone the project cd Github-Search in your terminal Run the command code.
 
-Contact information
+# Contact information
 Incase you have any question or you woul want to work with me reach me via mariallugare@gmail.com
 
 Live link
