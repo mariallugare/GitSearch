@@ -15,7 +15,7 @@ Fork the repository clone the project cd Github-Search in your terminal Run the 
 # Contact information
 Incase you have any question or you woul want to work with me reach me via mariallugare@gmail.com
 
-Live link
+# Live link
 GithubSearch This project was generated with Angular CLI version 12.2.1.
 
 Development server
