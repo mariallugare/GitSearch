@@ -9,7 +9,7 @@ This is a website where a user can input his/her github username and get to see 
 
 This project was generated with Angular CLI version 12.2.1.
 
-Installation setup
+# Installation setup
 Fork the repository clone the project cd Github-Search in your terminal Run the command code.
 
 Contact information
